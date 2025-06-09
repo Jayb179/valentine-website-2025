@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "AAAA TENGO MI MORENITA NO ME MIREN ZORRAS😤❤️",
         message: "Ven busca tu regalo mi chakalita",
-        emojis: "❤️😘😍💗😻❤️‍🔥💖💓💘👩🏽‍❤️‍👨🏻🐇🧸❤️💕"  // These will bounce around
+        emojis: "❤️😘😍💗😻❤️‍🔥💖💓💘👩🏽‍❤️‍👨🏻🐇🧸❤️💕❤😍"  // These will bounce around
     },
 
     // Color scheme for the website
