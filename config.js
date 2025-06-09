@@ -22,36 +22,36 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Quieres ser mi morenita?",                                    // First interaction
+            yesBtn: "Sí",                                             // Text for "Yes" button
+            noBtn: "Quizás",                                               // Text for "No" button
+            secretAnswer: "PARA SIEMPREE! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "Me quieres?",                          // For the love meter
+            startText: "Así de mucho te quiero!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Quieres un día comprometernos y casarnos? 🌹", // The big question!
+            yesBtn: "Sí!",                                             // Text for "Yes" button
+            noBtn: "Siiii con muchas i"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ASÍ DE MUCHO??? ❤️🚀",  // Shows when they go past 5000%
+        high: "Al infinito y más allá 🚀💝",              // Shows when they go past 1000%
+        normal: "y más allá! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "AAAA TENGO MI MORENITA NO ME MIREN ZORRAS😤❤️",
+        message: "Ven busca tu regalo mi chakalita",
+        emojis: "❤️😘😍💗😻❤️‍🔥💖💓💘👩🏽‍❤️‍👨🏻🐇🧸❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
